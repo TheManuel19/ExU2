@@ -1,0 +1,1 @@
+ C:\\Users\\juanm\\Downloads\\Stateful-Click-Counter\\.dart_tool\\flutter_build\\e2c3445da9374a276363964961a5e631\\native_assets.yaml: 
